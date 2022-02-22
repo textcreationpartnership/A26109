@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrological predictions of Englands happy success and compleat victory over the French, Dutch, &amp; Dane, this year 1667 the rebuilding and flourishing of the city of London in great glory : the Kings commanding the treasures of his enemies to repair her ruines : with several remarkable prophecies of the same nature.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26109</idno>
+            <idno type="STC">Wing A4083</idno>
+            <idno type="STC">ESTC R9407</idno>
+            <idno type="EEBO-CITATION">11664517</idno>
+            <idno type="OCLC">ocm 11664517</idno>
+            <idno type="VID">48016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 9:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Astrological predictions of Englands happy success and compleat victory over the French, Dutch, &amp; Dane, this year 1667 the rebuilding and flourishing of the city of London in great glory : the Kings commanding the treasures of his enemies to repair her ruines : with several remarkable prophecies of the same nature.</title>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Pawlet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48016:1"/>
+            <pb facs="tcp:48016:1" rendition="simple:additions"/>
+            <p>Aſtrological Predictions OF <hi>ENGLANDS</hi> Happy Succeſs, AND Compleat VICTORY OVER THE <hi>FRENCH, D<g ref="char:V">Ʋ</g>TCH,</hi> &amp; <hi>DANE,</hi> This Year 1667.</p>
+            <p>The Rebuilding and Flouriſhing of the City of <hi>LONDON</hi> in great Glory; The Kings Commanding the Treaſures of his Enemies, to repair her Ruines.</p>
+            <p>With ſeveral Remarkable Propheſies of the ſame nature.</p>
+            <p>
+               <hi>Juvat haec meminiſſe.</hi>
+            </p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Robert Pawlet,</hi> at the ſign of the Bible in <hi>Chancery-lane,</hi> 1667.</p>
+            <pb facs="tcp:48016:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:48016:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48016:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:48016:3" rendition="simple:additions"/>
+            <head>Aſtrological Predictions OF <hi>ENGLANDS</hi> Happy Succeſs AND Compleat VICTORY OVER THE <hi>FRENCH, D<g ref="char:V">Ʋ</g>TCH,</hi> &amp; <hi>DANE,</hi> This Year 1667.</head>
+            <p>IT is not any part of my intended brief Work, to write an Eulogy for Aſtrology, the Art of Science it ſelf being able to dilate her own praiſes; but my deſign ayms to give a ſatisfaction, how far either in general or particular, the ſame Art hath predicted or foretold good fortune and happy ſuc<g ref="char:EOLhyphen"/>ceſs to attend all the affairs of <hi>Great Britain,</hi> in this pre<g ref="char:EOLhyphen"/>ſent year current, and the future; and alſo what miſeries and calamities ſhall attend the malitious Ene<g ref="char:EOLhyphen"/>mies thereof, well knowing, that there is hardly any greater encouragement to the attaining of high and ho<g ref="char:EOLhyphen"/>norable things, then when the undertakers are drawn by an aſſured confidence of a promiſed and even aſcer<g ref="char:EOLhyphen"/>tained ſucceſs: To the creating of which encouraged confidence, be pleaſed to obſerve, that Mr. <hi>Booker</hi> in <hi>March</hi> this year, ſaith,
+<pb n="2" facs="tcp:48016:4"/>
+               <q>
+                  <l>If health, wealth, plenty, peace, and all that's good<note place="margin">Much good is promiſed to this Nation, as well to Prince &amp; other Gran<g ref="char:EOLhyphen"/>dees, as alſo to the Generality of the People.</note>
+                  </l>
+                  <l>Flow in upon us, if 't be not withſtood</l>
+                  <l>By our unthankfulneſs, then we have cauſe</l>
+                  <l>Greatly to joy; but by the Starry Laws</l>
+                  <l>Of this rare<note n="*" place="margin">Speaking of Conjunction of <hi>Mars</hi> and <hi>Jupiter</hi> in <hi>Febr.</hi>
+                     </note> Revolution, 'tis decreed,</l>
+                  <l>Of our misfortunes, that we ſhall be freed.</l>
+               </q> And to prove that there is ſomething of certainty in the ſaid Art, hear what the ſame perſon avoucheth con<g ref="char:EOLhyphen"/>cerning the late burning of <hi>London:</hi> I ſhall tell the World, ſaith he, that the late fearfull deſtructive Fire, that hath ſo lamentably defaced <hi>London,</hi> was long ſince above an hundred years ago predicted, I believe Aſtro<g ref="char:EOLhyphen"/>logically. <hi>Michaell Noſtredamus</hi> of St. <hi>Remy</hi> in <hi>Provence,</hi> Phyſician to the King, and a great Mathematician and Aſtrologer, who dyed the 2. of <hi>July</hi> 1566. aged 62. years, publiſhed certain Quadrins in <hi>French,</hi> which was printed 1555. The Book is in divers mens hands, I my ſelf have had one above 40 years, amongſt the reſt in Quadrin 51. are theſe words;
+<q>
+                  <lg>
+                     <l>Le ſangue du Juſte a Londres fera faut</l>
+                     <l>Bruſlez par foudres, de Vingt trois, les ſix,</l>
+                     <l>La Dame Antique cherra de place haut,</l>
+                     <l>De meſme ſecte pluſieurs ſerront occis.</l>
+                  </lg>
+               </q> Engliſhed;
+<q>
+                  <lg>
+                     <l>For th' Juſt mans blood at <hi>London</hi> ſpilt, the ſame</l>
+                     <l>By Thundring Fire ſhall be reduc'd to flame;</l>
+                     <l>That antient Lady's lofty head muſt droop,</l>
+                     <l>And many of her Cit'zens forc'd to ſtoop.</l>
+                  </lg>
+               </q>
+               <pb n="3" facs="tcp:48016:4"/>Amongſt all the Aſtrological Predictions mentioned in any age, either antient or modern, or in any Hiſtory I ever yet read, this is the moſt remarkable, and of it ſelf able to ſtop the mouths of All Aſtrologomaſtiers: I have given the tranſlation or repoſition of the ſame, and leave it to poſterity to admire it. Thus much he ſaith of what is paſt; hear ſomething more of what is to come. For he, ſpeaking of the Suns Vernal Ingreſs, and the poſition of the Heavens at the ſame time, breaks forth into theſe words. A moſt admirable poſition, and if we ſhould retrocalculate the Suns Ingreſs for 500 years, we ſhould not meet with ſuch a wonderfull poſi<g ref="char:EOLhyphen"/>tion of expected good ſucceſſe <hi>in omnibus,</hi> in all the Kings Reigns ſince <hi>William the Conqueror.</hi> To be ſhort, it ſignifies health, wealth and proſperity both to King and People, victory over Enemies, or agreement be<g ref="char:EOLhyphen"/>twixt thoſe that have been at odds, perfect amity amongſt Friends, notable occurrences about Eccleſia<g ref="char:EOLhyphen"/>ſtical affairs, and reſults about Religion, the preferment of ſome Pious and Religious Perſons, happy Navigati<g ref="char:EOLhyphen"/>ons, and proſperous return of many rich Ships, to the Kings great profit, and weal of the Publick, many nota<g ref="char:EOLhyphen"/>ble Embaſſyes from Foreign parts concerning high mat<g ref="char:EOLhyphen"/>ters, to the great joy and content of all from the higheſt to the meaneſt.</p>
+            <p>Mr. <hi>Gadbury</hi> in his Poetical Obſervations, ſaith thus in <hi>January:</hi>
+               <q>
+                  <l>Saturn is rampant yet, and with the Sun</l>
+                  <l>(The ſecond day) is in Conjunction;</l>
+                  <l>Joves Sextile rayes do qualifie the hate,</l>
+                  <l>And turn the fury to ſome neighbour State;</l>
+                  <pb n="4" facs="tcp:48016:5"/>
+                  <l>
+                     <hi>Great Britain</hi> is ſecure, her Worthies free,</l>
+                  <l>Whoſe fates concur with her felicity:</l>
+               </q> And in <hi>February</hi> thus:
+<q>
+                  <l>
+                     <hi>England</hi> upon her Enemies may be</l>
+                  <l>Aveng'd to purpoſe for their ſurquedry.</l>
+               </q> And in <hi>June</hi> he ſayes thus:
+<q>
+                  <l>The two last <hi>Junes</hi> great ſlaughters were on Sea,</l>
+                  <l>Strange diſcontents and Treacheries on ſhore,</l>
+                  <l>The <hi>Dutch</hi> and <hi>French</hi> have cauſe to rue the day</l>
+                  <l>They ſlighted <hi>Englands</hi> friendſhip heretofore;</l>
+                  <l>If wiſe for future they may thrive, and then</l>
+                  <l>The <hi>French,</hi> a Kingdom; <hi>Dutch,</hi> High-ſtates agen.</l>
+               </q> And in <hi>July</hi> he proceeds:
+<q>
+                  <l>But now a Thundring Aſpect doth appear,</l>
+                  <l>Threatning great Navies to be drawing near;</l>
+                  <l>Bright <hi>Sol</hi>'s in <hi>Cancer, Chrono</hi>'s in the <hi>Goat,</hi>
+                  </l>
+                  <l>
+                     <hi>Holland</hi> and her Confederates change their note,</l>
+                  <l>Stout <hi>Mars, Great Britains</hi> Planet, rules alone!</l>
+                  <l>Makes <hi>July, June! OBSERVE IT EVERY ONE:</hi>
+                  </l>
+               </q> And in <hi>Auguſt:</hi>
+               <q>
+                  <l>Let <hi>England</hi> keep but peaceable at home,</l>
+                  <l>No State of <hi>Europe</hi> dare her roome</l>
+                  <l>At Land or Sea: She's made for Victory;</l>
+                  <l>Thrice happy Nations that with her comply.</l>
+               </q>
+               <pb n="5" facs="tcp:48016:5"/>And in his diſcourſe of the Suns Vernal Ingreſs, he ſaith; <hi>Mars</hi> the Patron of <hi>England,</hi> is found ſtrong and power<g ref="char:EOLhyphen"/>full, <hi>&amp;c.</hi> intimating a more then ordinary activity in the Genius of the <hi>Engliſh</hi> Nation; not only inclining, but prompting them to high and eminent Engagements with Foreign Nations, and promiſing them Victory over their Enemies, and giving them a ſufficiency of power to preſcribe Laws and limits to them. Adding further; They ſhall overcome them, and that ſo remarkably, that they ſhall tread them under their feet; and for that Year, ſhall very rare (if at all) receive any interruption or check in their hopes, victories or ſucceſſes.</p>
+            <p>Mr. <hi>Wing</hi> ſaith in <hi>April: Holland</hi> cannot thrive, nei<g ref="char:EOLhyphen"/>ther can we forget her Treachery: <hi>France</hi> holds up her head a while. And in <hi>June</hi> and <hi>July;</hi> Is not <hi>England</hi> Victorious? if ſo, then <hi>Holland</hi> gets little, and <hi>France</hi> leſs; for great alterations and changes in the World may be ſhortly expected;
+<q>
+                  <l>Most look to hear, of Peace this Year;</l>
+                  <l>But if not ſo, then <hi>Hollands</hi> woe.</l>
+               </q> And ſpeaking of the Suns entring Aries, he hath theſe words. I might here ſpeak ſomewhat of the preſent War between us and <hi>Holland,</hi> and ſee what may be ſaid Aſtrologically touching the event and iſſue thereof, but I ſhall at preſent ſay little; yet this I ſay, There is no Configuration of the Celeſtial bodies that may diſmay us in the leaſt, or that doth in any wiſe promiſe them Victory.</p>
+            <pb n="6" facs="tcp:48016:6"/>
+            <p>Mr. <hi>Trigg</hi> in his Monthly obſervations expreſſeth himſelf thus. <hi>France</hi> aime not to high, thy Grandeur may ſuffer an Ecclipſe as great as in the year 1651, if with great prudence thou doeſt not prevent it; thy Coun<g ref="char:EOLhyphen"/>ſels may do more by Peace then War. Therefore <hi>Frenchmen</hi> and <hi>Hollanders</hi> be not too forward, your re<g ref="char:EOLhyphen"/>pentant hour is near, unleſſe in time you be ſo wiſe as to make peace with the <hi>Engliſh</hi> Nation, all whoſe E<g ref="char:EOLhyphen"/>nemies ſhall truckle under her; ſo that there will be great hopes of concluding an honourable Peace with one or more Nations, who now begin to find, that fighting againſt the <hi>Engliſh</hi> (a People from the begin<g ref="char:EOLhyphen"/>ning ordained for victory) is to no purpoſe, ſince the Stars have deſigned them never to take the foile (un<g ref="char:EOLhyphen"/>leſſe by Treachery from within herſelf) from any people in the whole world.</p>
+            <p>Mr. <hi>Fly</hi> ſaith, Our Enemies begin to comply, be more mild, and think of friendſhip. And ſpeaking of cloudy inconſtant weather, It is, ſaith he, much like our Ene<g ref="char:EOLhyphen"/>mies, the <hi>French</hi> and the <hi>Dane,</hi> who are ſtill plotting and contriving againſt us, but to little purpoſe; Glad would they be to be quiet.</p>
+            <p>Mr. <hi>Andrews</hi> in ſeveral of his monthly Obſervations, declares himſelf thus. Providence ſmiles upon the Kingdome of <hi>England.</hi> And we doubt not, but that the Heavens will favour the <hi>Engliſh,</hi> and that his Majeſties Subjects will be in a thriving and good Poſture; And his Armies and Navyes whereever employed, will be very ſucceſsfull in all their undertakings, and performe ſome buſineſſe of conſequence. The Emperours Do<g ref="char:EOLhyphen"/>minions
+<pb n="7" facs="tcp:48016:6"/>not quiet. The <hi>Swedes</hi> are active; The <hi>Danes</hi> full of troubles: but ſtill we find the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in a flouriſhing temper, and the <hi>Engliſh</hi> ſeem very formidable in ſundry parts of the world, ſo that we have great cauſe to predict good ſucceſs to the Forces and Navyes of his Majeſty of <hi>Great Britain,</hi> wherever en<g ref="char:EOLhyphen"/>gaged. Moreover, about <hi>July,</hi> the <hi>Hollander</hi> or <hi>Datch</hi> may be ſufficiently ſenſible of the malitious aſpects of the Starrs, for aſſuredly their Forts and Ships are not far off from danger, and if God have not ere then com<g ref="char:EOLhyphen"/>poſed the differences between his Majeſty of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> and that people, <hi>viz.</hi> the <hi>Dutch,</hi> then they muſt ex<g ref="char:EOLhyphen"/>pect to be very much humbled by the <hi>Engliſh.</hi> To<g ref="char:EOLhyphen"/>wards the Baltique Sea ſomewhat very conſiderable may happen, wherein the <hi>Danes</hi> and <hi>Hollanders</hi> may be highly concerned, and if they ſhall appear with their Fleet and Navy in a Warlike poſture againſt the <hi>Engliſh</hi> in <hi>Auguſt;</hi> then let them take what follows; <hi>viz.</hi> a total or fatal overthrow. Laſtly, we do perfectly diſcover by the Poſitions and Configurations of the Starrs, that his Majeſties Kingdomes and Dominions will be in a proſperous condition, and be bleſſed in their undertakings, even to the very amazement of Forreign Countries. But afflictions, miſeries, troubles and misfortunes ſhall attend the <hi>Dutch</hi> this year, and they muſt expect no good ſucceſs, unleſſe God in mercy ſhall grant them the favour of his Majeſty of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> before the Spring 1667, or if Heaven have not ere that time directed thoſe people unto a happy compliance or compoſition of controverſies with him.</p>
+            <p>Then ſpeaking of <hi>London,</hi> he ſaith, and aſſuredly we have now great cauſe to affirm, that <hi>London</hi> our <hi>Engliſh
+<pb n="8" facs="tcp:48016:7"/>Metropolis</hi> ſhall be in a flouriſhing ſtate again, and in a very proſperous condition, ſo that people may ſafely build houſes there, as being confident (according to the rules of Art) of the great felicity that ſhall ere long attend that City.</p>
+            <p>Then turning his diſcourſe to <hi>France,</hi> he ſaith, We have ſufficient cauſe to predict, that ſome ſad and diſaſtrous Events will in this year 1667. befall the City of <hi>Paris,</hi> and that the <hi>French</hi> Kings Affairs will find much interruption in ſundry parts of the World; and the <hi>French</hi> and <hi>Dutch</hi> will be in a ſad condition, unleſs they comply with <hi>England;</hi> and we hope the World towards the latter end of 1667. will appear in a more ſetled condition then formerly.</p>
+            <p>Mr. <hi>Saunders</hi> ſaith; From good and rational grounds I pronounce, that the Revolutions of the Heavens this Year, promiſe much proſperity to come to formerly afflicted <hi>London,</hi> and her Governours, in her re-edifica<g ref="char:EOLhyphen"/>tion; and that ſuch Prizes or Compoſition may probably be brought in from the amazed and depreſſed <hi>Dutch,</hi> that may adde much to her felicity, and well replete his Majeſties Treaſures; for till a Submiſſive Peace be con<g ref="char:EOLhyphen"/>cluded, the <hi>Engliſh</hi> will gain ground of that elated Na<g ref="char:EOLhyphen"/>tion, who proudly aſſume the Attributes of the Creator, calling themſelves <hi>High and Mighty,</hi> which Blaſphemy will ſufficiently be rewarded by the next Revolution 1668. which time will ſet his Majeſty of <hi>England</hi> free, with Victory and Honour over all his Enemies; there<g ref="char:EOLhyphen"/>fore (though things be banded to and fro, and look up<g ref="char:EOLhyphen"/>on us with a face of unſettlement in the mean time) let us reſt aſſured in this, That the year (1668.) will
+<pb n="9" facs="tcp:48016:7"/>be a Jubilee to <hi>England,</hi> and I derive this Judgement from warrantable grounds of Art: But this preſent year will be a time of Action, much buſineſſe and great de<g ref="char:EOLhyphen"/>ſigns attempted: But the language of the Stars in gene<g ref="char:EOLhyphen"/>ral ſpeak proſperity to <hi>England,</hi> with good ſucceſſe, and eſpecially to her famous Metropolitan <hi>London,</hi> which the Almighty will miraculouſly (to her glory) raiſe out of the aſhes, and, like <hi>Job,</hi> redouble her fame and loſſes, and command the very Treaſures of her Enemies to repair her Ruines; and thoſe noxious natural quali<g ref="char:EOLhyphen"/>ties, which both affected and infected the Earth, her air and waters, are now ſpent and exhauſted, which likewiſe predicts her happineſs, as to health, for many ſucceeding years.</p>
+            <p>Mr. <hi>Lilly</hi> pronounceth his Judgement in theſe terms, <hi>viz.</hi> The King of <hi>France</hi> and his Kingdom, or the ſeve<g ref="char:EOLhyphen"/>ral Provinces, Dukedoms or Principalities thereof, are threatned this year; more particularly he is to ſuffer great damage in his Affairs, by the death of ſome emi<g ref="char:EOLhyphen"/>nent Eccleſiaſtical perſon, or one of the prime Magi<g ref="char:EOLhyphen"/>ſtrates of his Kingdom; as alſo by reaſon of ſome gene<g ref="char:EOLhyphen"/>ral turbulent commotion of his oppreſſed Subjects. And it may alſo be rationally affirmed, that ſome ſudden oc<g ref="char:EOLhyphen"/>caſion of War will much diſcompoſe the great Affairs of his Imperial Majeſty, from an Eaſtern people, or in his own Eaſtern Patrimony or Dominion; nor is there like to be any handſome Unity between the Monarch of <hi>France</hi> and him, but rather that a fierce War will enſue betwixt the <hi>Germans</hi> and <hi>French.</hi> When this War doth break forth, then will <hi>France</hi> ſuffer great miſchief, as well internally in the bowels of her Country, as ex<g ref="char:EOLhyphen"/>ternally
+<pb n="10" facs="tcp:48016:8"/>from the Invaſions of ſeveral other people; We do alſo probably conj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cture, that in or near the Years 1672. or 1673. there will be ſome irruption made into <hi>Poland,</hi> or other Countries towards thoſe parts, by the rude <hi>Tartars,</hi> and many freſh Controverſies or Diffe<g ref="char:EOLhyphen"/>rences will fall out betwixt the <hi>Swedes</hi> and Crown of <hi>Denmark.</hi> Secondly, we find in one of the Sybils, a Pro<g ref="char:EOLhyphen"/>pheſie, thus written, <hi>viz.</hi> That a Star ſhall ariſe in <hi>Europe</hi> over the <hi>Iberians,</hi> towards the great Houſe of the North, whoſe beams ſhall unexpected enlighten the whole World; and this perſon is to appear, when moſt Nations being wearied with War, ſhall willingly em<g ref="char:EOLhyphen"/>brace Peace; ſo that a Great and Warlike King or Prince ſhall ariſe out of the North, whoſe Wars and Actions ſhall be diametrically oppoſite to the preſent Times; and at laſt he ſhall ſettle the diſtracted condi<g ref="char:EOLhyphen"/>tion of many Nations in peace.</p>
+            <p>If the rules of the Antients hold true, we muſt ad<g ref="char:EOLhyphen"/>judge happineſs to <hi>England;</hi> therefore let no true <hi>Engliſh</hi> heart fail him, or be much troubled with the rumour of the Times, or be weary in aſſiſting his Majeſty in per<g ref="char:EOLhyphen"/>ſon or purſe; for at the Suns entrance into Aries, there is the moſt promiſing poſition of Heaven for his Majeſties ſucceſſes againſt all Enemies whatſoever, that yet hath been ſince the Wars we have had, be they <hi>Dutch, Dane,</hi> or <hi>French:</hi> And we may judge the greateſt Tranſactions of <hi>Europe,</hi> and of higheſt concernment, will be managed by his Majeſty of <hi>England,</hi> his Counſellors and Con<g ref="char:EOLhyphen"/>ductors, both as to War and Peace, with great m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnani<g ref="char:EOLhyphen"/>mity and haughtineſs of Spirit as unto the Martial part, and with as great Gravity and Prudence on the Civil. And although the general Affairs of Chriſtendom ſeem
+<pb n="11" facs="tcp:48016:8"/>to be managed ſomething confuſedly, yet in <hi>England</hi> they are carried on with great courage and vivacity of Spirit, with ſincerity, and upright hearts and intentions. In ſome Countries matters are carried on with high words, and great brags and boaſtings; in other places with nothing but deceit, fraud, juggling, and under<g ref="char:EOLhyphen"/>hand dealing; in other places with ſubtle delayes, Treacheries, and feigned devices; however great pre<g ref="char:EOLhyphen"/>parations are ordering as well for Sea as for Land, for the major part of this year we muſt expect Military actions: And truly ſome high deſign will be in hand, which will almoſt put the world to a ſtand what it may be; if it be lawfull to conjecture the ſeries of it, we have great confidence that the whole Honour and Glory of that action, that deſign or deſigns, be they by Sea or Land, ſhall redown'd unto the high Renown and Ho<g ref="char:EOLhyphen"/>nour of his Majeſty of <hi>Great Brittain,</hi> and to his Naval Forces whereever engaged; and againſt whatſoever Enemy or Enemies either <hi>Dutch, Dane,</hi> or <hi>French,</hi> and this to the great comfort of all his Majeſties loving Sub<g ref="char:EOLhyphen"/>jects; for the configurations of Heaven were never more propitious for advancement of the whole <hi>Britiſh</hi> affaires then in this year 1667.</p>
+            <p>All the Planets argue, that neither the <hi>Hollander</hi> or their Confederate the <hi>French,</hi> though highly induſtri<g ref="char:EOLhyphen"/>ous and Active, are very ready or well provided for a<g ref="char:EOLhyphen"/>ny action toward the Spring; yet (as was ſaid before) they uſe great induſtry: but whoever fight againſt Pro<g ref="char:EOLhyphen"/>vidence, are ſure to be worſted and vanquiſhed, as we do not queſtion both <hi>Dutch</hi> and <hi>French</hi> will be, whenever they ſhall dare either ſingly or joyntly to incounter his Maje<g ref="char:EOLhyphen"/>ſties Navy or Navies. Nay, more probably, the Plague
+<pb n="12" facs="tcp:48016:9"/>is like to come among the <hi>Hollanders,</hi> both into their Cities, and Towns, and Ships amongſt their Seamen; then follows a conſumption and decay of their Eſtates and Fortunes in all the habitable parts of the World, whereſoever they Traffick; Beſides, they are threatned with irreconcileable differences and diſcords amongſt their Principal Officers and Grandees, as alſo commotions and murmurings in the vulgar ſort of people, nay perhaps one Province againſt another.</p>
+            <p>True it is, the Heavens ſeem to give hopes of accom<g ref="char:EOLhyphen"/>modation in the preſent War with <hi>Holland</hi> and <hi>France,</hi> if we could believe the <hi>Hollanders</hi> were as yet ſufficiently chaſtiſed for their former inſolencies, or had ſuffered that meaſure of misfortune, which Providence hath aſſigned for them, both by a fearfull Plague, Peſtilence, Inſur<g ref="char:EOLhyphen"/>rections, Deluges by Inundations, and drowning part of their Territories, ſcarcity of all ſorts of Proviſions, loſs in their Fiſhing-trade, loſs of their Navies and Merchants Ships in all and every Place, Kingdom and Country. A wilfull and obſtinate people they are ſignified to be, in not embracing thoſe gracious opportunities of Peace, which otherwiſe might be obtained from his Majeſty of <hi>Great Britain.</hi> Its probable they expect, or are in hopes of aſſiſtance from the <hi>French</hi> King, and <hi>Denmark,</hi> and perhaps ayd is intended them; but it ſeems for a time either retarded, or their Ally not capable in condition, or may ſtand upon ſome Articles or Covenants not be<g ref="char:EOLhyphen"/>fore mentioned or thought upon: And we ſay further, that Providence, it is like, directs his Majeſties Forces or Navies ſo happily, that they keep <hi>Mounſieur</hi> from acting or joyning with them ſo that the <hi>Holl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder</hi> ſhall meet with all manner of impediments, hinderances and
+<pb n="13" facs="tcp:48016:9"/>delayes in all their Affairs, and a general ill diſpoſition of whatever belongs to them in their own Dominions; And that their Rich men, their Antient men, their Mi<g ref="char:EOLhyphen"/>niſters, their Boores or Ruſtical people, their Mariners and Sea-faring men, every one in his kind will be weary of this their War with <hi>England; Et blaſphemabunt ſe invicem: viz.</hi> They will blaſpheme and curſe one ano<g ref="char:EOLhyphen"/>ther, and all thoſe who at firſt introduced them to this fatal and unlucky War.</p>
+            <p>And ſhortly after, in his diſcourſe upon the Ingreſs of the Sun into Cancer, the 11th of <hi>June,</hi> he ſaith: If the Lord God in mercy to the <hi>Hollanders</hi> incline not their hearts to mediate for Peace ere this time, (as there is no great probability they will) then is their Condition re<g ref="char:EOLhyphen"/>preſented to be ſad within a few months following: For (ſaith he) that King who rules over Gemini (and that is the King of <hi>England</hi>) ſhall be exalted, or much mag<g ref="char:EOLhyphen"/>nified, and ſhall be Victorious over his Enemies.</p>
+            <p>In his Monthly Obſervations are theſe paſſages: Ma<g ref="char:EOLhyphen"/>ny reports fly abroad, as if ſome Treaty for Peace were in hand; People willingly embrace that Intelligence, but time makes it appear a Vapour. Our Enemies have not yet had a ſufficient ſhare of the ſecond Comets in<g ref="char:EOLhyphen"/>fluence, let them expect it with a ſad intereſt in this Summer; but we may expect an happy Unity among our ſelves, and perceive Gods mercies generally to ſmile upon the Actions of his Majeſty, and Grand Affairs of the whole Nation, infinitely to the ſatisfaction of all ſober perſons. An appearance of drawing Forces into <hi>Normandy,</hi> the <hi>French</hi> King being active, but Providence ſeems to contradict his intentions; and the prudence of his Majeſty of <hi>England</hi> prevents all fear of <hi>French</hi> Inva<g ref="char:EOLhyphen"/>ſion.
+<pb n="14" facs="tcp:48016:10"/>Whether the <hi>French</hi> King reſolve upon War or Peace, is no matter, if his Navies will peep out of their Harbours, they muſt return home again if they can; but aſſuredly deſtruction, or captivity, or ſinking will be the final end of moſt of thoſe, who ſhall encounter his Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Great Britains</hi> Sea Forces this year.</p>
+            <p>And in <hi>March</hi> he ſaith thus: The Monarch of <hi>Great Britain</hi> ſeems in greateſt readineſs for Action, and beſt provided: The <hi>Dutch</hi> fearfull of a Plague, and Con<g ref="char:EOLhyphen"/>ſumption of their Seamen, nor in a preſent capacity of undertaking any great deſign. The <hi>French</hi> ſeem at a ſtand, ſome emergent misfortune having happened unto them, or feared to happen among themſelves ſuddenly. <hi>Ne verbum quidem de Dano:</hi> The <hi>Dane</hi> cannot get out of his Harbors; <hi>No peny, no Pater-noſters:</hi> The <hi>Swediſh</hi> Nation ſeem the moſt active of all <hi>Europe,</hi> and there is reaſon, for ſome violent ſtorm is like to break forth upon them from a barbarous people, if not prevented. The <hi>Amſterdam</hi> Merchants, as alſo the Generality of <hi>Holland,</hi> find great oppoſition in their Vocations and Callings, they ſeem now more ſenſible of their preſent ſad condi<g ref="char:EOLhyphen"/>tion, then for ſome years before; for whenever the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> come out to Sea, they are ſure to be worſted, by firing, burning or taking their beſt and moſt ſerviceable Ships, killing and deſtroying their moſt able and ſervice<g ref="char:EOLhyphen"/>able Commanders and men; neither will the <hi>Dane</hi> or <hi>French</hi> ſpeed better: The <hi>Dane</hi> ſeems to loſe his honour by not fighting, and much aſperſed therefore; Provi<g ref="char:EOLhyphen"/>dence ſeems to bleſſe the <hi>French</hi> King with anſwerable ſucceſs; <hi>viz.</hi> with the Captivity of many of his Ships and men; but this Nation ſeems bleſſed with ſome remarkable teſtimony of Gods favour, in or near the
+<pb n="15" facs="tcp:48016:10"/>month of <hi>May,</hi> highly to the honour of his Majeſty, and ſatisfaction and content of the whole Kingdom, for there is probability of much Honour conferred on deſerving perſons: And we have cauſe to believe, his Majeſty to be much honoured near the time, by ſeveral Embaſſadors from Foreign parts, to congratulate his ſucceſſes: but Heaven, we fear, hath not ſuch bleſſing for the <hi>Hollan<g ref="char:EOLhyphen"/>ders,</hi> Divine Vengeance having as yet not ſcourged them ſufficiently for their former inſolencies. The King of <hi>Denmark</hi> threatned with War, and many ſad miſchances near his own confines, a ſturdy Enemy and powerfull, watching all opportunities againſt him. The <hi>French</hi> King ſeems to expend much money, and to make great preparations to little purpoſe; he will in a ſhort time be ſenſible of the firſt Comets influence for evil, and not for good. About <hi>June</hi> ſtrange News from <hi>Holland,</hi> as if all were in an uproar, we believe they will be then in a ſad and fearfull condition.</p>
+            <p>The <hi>Hollander</hi> from the ill ſucceſs he ſhall find in <hi>July,</hi> if he ſubmit not before unto a Peace, ſhall perceive its in vain to ſtrive againſt the King of <hi>England,</hi> whoſe Forces (though not without much blood) ſhall obtain ſo re<g ref="char:EOLhyphen"/>markable a Victory over both <hi>French, Dutch,</hi> and <hi>Danes,</hi> as the like hath not been heard of in any age: If Provi<g ref="char:EOLhyphen"/>dence have aſſigned that month for a Sea-fight, its the <hi>Ultimum vale</hi> of the <hi>Hogens:</hi> But if Providence retard the actions intended in <hi>July,</hi> untill <hi>Auguſt,</hi> then they ſeem more ponderous and weighty at that time, all parties be<g ref="char:EOLhyphen"/>ing better prepared: And thoſe Navies, thoſe Souldi<g ref="char:EOLhyphen"/>ers who are under the Dominion, or dwell in the Land of <hi>Mars,</hi> (as the <hi>Engliſh</hi> do) ſhall overcome their Ene<g ref="char:EOLhyphen"/>mies, becauſe there is much of choller, anger and boldneſs
+<pb n="16" facs="tcp:48016:11"/>in them, whereas in <hi>Saturnine</hi> people (ſuch are the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi>) there is much fear and cowardice, by reaſon of their want of heat.</p>
+            <p>Towards <hi>September</hi> mens minds begin to hearken after Peace, and many general rumours diſperſed and ſpoken of to that purpoſe, yet ſome of the male configurations in <hi>Auguſt</hi> may manifeſt their ſad influences in <hi>September,</hi> unto the greater glory of <hi>England;</hi> but exceeding miſ<g ref="char:EOLhyphen"/>fortune of our Enemies, whether <hi>Dutch, Dane,</hi> or <hi>French,</hi> whoſe imperious King findes great obſtructions in his Civil affairs at home, and leſſer ſatisfaction in his Military proceedings abroad; ſo that we may truly ſay of him, he may expect little gain, nor gainfull returns in ſuch things and actions from which he thought to have reap<g ref="char:EOLhyphen"/>ed great gain, his Confederates will reap no benefit from his aſſiſtance, and therefore there will follow Contro<g ref="char:EOLhyphen"/>verſies and diſguſts between them, <hi>viz.</hi> there is much pro<g ref="char:EOLhyphen"/>bability of a breach of the League betwixt him and the <hi>Dutch,</hi> and others. In <hi>November</hi> the Monarch of <hi>Great Britain</hi> viſited from parts beyond the Seas by ſeveral Agents, for ſettlement of all differences and controver<g ref="char:EOLhyphen"/>ſies, ſo that if the <hi>Dutch</hi> be not ordain'd for a full deſtructi<g ref="char:EOLhyphen"/>on, a peace in probability is near at hand; but if they ſhall ſtill wilfully neglect his Majeſties civility and clemency, let them note this Prediction, which will operate and be in full force againſt them all 1667. <hi>viz.</hi> unexpectedly they ſhall receive much dammage from whence they leaſt expected it; conſtantly troubl'd with quarrellings and con<g ref="char:EOLhyphen"/>troverſies amongſt their Martial Commanders, by whoſe malice much detriment happens unto them; a ſudden wreck or ſubverſion of their Eſtates (which is moſt part in Ships;) with ſhame and ſcorn many will be depos'd from
+<pb n="17" facs="tcp:48016:11"/>their Authority; they will in 1667 be ſo ſhaken with all manner of misfortunes, they will not know what to do.</p>
+            <floatingText xml:lang="eng" type="prophecy">
+               <body>
+                  <head>The Propheſie of <hi>ARISE EVANS</hi> in his Book called <hi>The Light of the Jews,</hi> written <hi>10</hi> years ſince. In which Book he poſitively foretold the <hi>King's Reſtauration,</hi> and that it ſhould be ſo miraculouſly as it was, <hi>viz.</hi> without Blood<g ref="char:EOLhyphen"/>ſhed. He afterwards ſpeaking of a War that ſhould ariſe between <hi>Holland</hi> and the <hi>King,</hi> he pronounces theſe fol<g ref="char:EOLhyphen"/>lowing words to declare the ſucceſs of that War.</head>
+                  <p>THE falſe, envious, perfidious, ingratefull, cove<g ref="char:EOLhyphen"/>tous <hi>Hollander,</hi> being proud, reproacheth the King with foul language, becauſe of his former afflictions, by which God refined and fitted him for future glory, and takes all occaſion and advantage to do what miſchief they can to the King and his Subjects; neither will they for<g ref="char:EOLhyphen"/>bear, but ſtill go on in their malice againſt the King, that God might utterly deſtroy them, and blott out their Names from being a STATE under Heaven; for proud <hi>Holland</hi> ſhall be made the firſt Object of God's wrath for fighting againſt King <hi>Charles,</hi> and deſpiſing him. Therefore bleſſed and happy ſhall thoſe Kings and People be, that ſhall take their Power and Authority from King <hi>Charles,</hi> and live under his protection; for all his proud Enemies that ſhall deſpiſe him, and refuſe to ſubmit unto him, ſhall be deſtroyed. Afore this time, when the <hi>Hollander</hi> begged a relief from <hi>England,</hi> and had it, they then called themſelves <hi>The poor diſtreſſed States;</hi> but now being rich and proud, they diſdain all Kings, and call themſelves <hi>The High and Mighty States of</hi> HOL<g ref="char:EOLhyphen"/>LAND, and would have <hi>England</hi> to be theirs; but the <hi>Engliſh</hi> ſhall deſtroy them.</p>
+               </body>
+            </floatingText>
+            <pb n="18" facs="tcp:48016:12"/>
+            <p>The ſame in his <hi>Eccho to the Voyce from Heaven,</hi> recites a Propheſie of Mr. <hi>Truſwells,</hi> the Recorder of <hi>Lincoln,</hi> which is as followeth:</p>
+            <q>
+               <p>The <hi>Lilly</hi> ſhall remain in a merry World, and he ſhall be moved againſt the ſeed of the <hi>Lyon,</hi> and he ſhall ſtand on one ſide amongſt Thrones of his Kingdom and Coun<g ref="char:EOLhyphen"/>try; which Kingdom is the Land of the <hi>Moon,</hi> which is to be devided throughout all the World.</p>
+               <p>And there came the <hi>Son of Man,</hi> bearing three wilde Beaſts in his Armes, with a Company of People, he ſhall paſs many Waters, and he ſhall come to the Land of the <hi>Lyon</hi> looking for help with the Beaſts of his own Country.</p>
+               <p>And in that year there ſhall come an <hi>Eagle</hi> out of the Eaſt, and his Wings ſpread with the Beams of the <hi>Son of Man.</hi>
+               </p>
+               <p>And in that year ſhall be deſtroyed Caſtles upon <hi>Thames,</hi> and there ſhall be great fear over all the World, and in part of the Land. There ſhall be great Battles a<g ref="char:EOLhyphen"/>mong many Kingdoms.</p>
+               <p>That day ſhall be the Bloody Field, and the <hi>Lilly</hi> ſhall loſe his Crown, and there ſhall be Crowned the <hi>Son of Man.</hi>
+               </p>
+               <p>And in the fourth year, many Battles ſhall be for the Faith, and moſt of the World ſhall be ſtoopen; but the <hi>Son of Man,</hi> with the <hi>Eagle,</hi> ſhall be preſerved, and there ſhall be a Univerſal Peace over all the World. Then ſhall the <hi>Son of Man</hi> receive a miraculous Token, and there ſhall be great plenty of Fruits, and then he ſhall go to the Land of the <hi>Croſs.</hi>
+               </p>
+            </q>
+            <pb n="19" facs="tcp:48016:12"/>
+            <p>I will not undertake to interpret the aforeſaid <hi>Prophe<g ref="char:EOLhyphen"/>ſie,</hi> only from my Author take notice, That by the <hi>Lilly</hi> is meant <hi>France;</hi> and by the <hi>Son of Man</hi> bearing three wilde Beaſts in his Armes, is meant the King of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> The reſt will be then underſtood of courſe.</p>
+            <p>Thus we have led you through the learned Judgments of all our famous and moſt knowing Aſtrologers, who, as you heard, do all <hi>unâ voce</hi> fore tell Happineſs and Suc<g ref="char:EOLhyphen"/>ceſs to his Majeſtye in all his Undertakings; May they all prove unto him the words of Truth and Certainty: and truly there is little reaſon to doubt, ſince they have walked by the rule of that Art, which, although it layes no claim to Infallability, yet hath never in it ſelf been detected of Falſhood. For proof of which, I will quote you an Aſſertion out of <hi>Gaffarell</hi>'s unheard of Curioſities, (<hi>c.</hi> 13. <hi>ſect.</hi> 3.) and ſo conclude. His words are theſe:</p>
+            <p>All the Learned among the Antients called the Hea<g ref="char:EOLhyphen"/>vens <hi>Sacred Books,</hi> among whom the Learned <hi>Origen,</hi> interpreting after this manner, that is ſubtilly and queint<g ref="char:EOLhyphen"/>ly, that Paſſage in <hi>Geneſis, Et er unt in ſigna,</hi> affirms, (as he is reported by <hi>Euſebius</hi>) That the <hi>Starres</hi> were placed in this order in the Heavens, for no other end but to ſhew by their divers Aſpects, Conjunctions and Figures, whatever is to happen while the World en<g ref="char:EOLhyphen"/>dures, as well in general as particular; yet not ſo, as if They were the Cauſe of theſe Things, never any ſuch thing came into the Thought, much leſs into the Wri<g ref="char:EOLhyphen"/>tings of this Learned Man; For as the Propheſies that are written in Books, are not the cauſe thoſe Events which they foretell, but the ſign: In like manner,
+<pb n="20" facs="tcp:48016:13"/>ſaith he, may the Heavens very juſtly be called a Book, wherein God hath written all that hath been is, and here<g ref="char:EOLhyphen"/>after ſhall be. And for confirmation of this, he citeth a Paſſage out of a Book, the Title whereof is, <hi>Narratio Joſeph,</hi> a Book in his time highly eſteemed by all men, wherein the Patriatch <hi>Jacob</hi> giving his Bleſſing to all his Children, tells them, That he had read in the Tables of Heaven all that ever was to befall them and their Poſteri<g ref="char:EOLhyphen"/>ty. Whence the ſame <hi>Origen</hi> concludes, as well in his Tract on this Queſtion, <hi>Utrum Stellae aliquid agant,</hi> as in his Book <hi>de fato, cap.</hi> 6. that ſome Myſteries may ſurely be read in the Heavens.</p>
+            <p>Let no Man therefore cavil at, or queſtion the afore<g ref="char:EOLhyphen"/>mentioned Judgement; but rather heartily pray, That they may be certainly fulfilled, to his Majeſties Honor and Glory, and his Peoples Happineſs and Satisfaction.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48016:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
